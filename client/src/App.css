@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+/* Ladder container styling */
+.ladder-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Monkey styling with a slight animation effect */
+.monkey {
+  transition: transform 0.5s ease;
+}
+
+/* Banana styling */
+.banana {
+  font-size: 2.5rem;
+}
+
+/* Ladder styling */
+.step {
+  background-color: #63676d; /* Tailwind's gray-600 */
+  height: 1px;
+  border-radius: 10px;
+}
+*/ .score {
+  font-size: 1.1em;
+  font-weight: bold;
+  color: #645c5c;
+  margin-top: 10px;
+}

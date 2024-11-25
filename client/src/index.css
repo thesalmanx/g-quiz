@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.sidebar-transition {
+  transition: width 0.3s ease-in-out;
+}
+
+.text11 {
+  color: aliceblue !important;
+}
+
+.bg-gray-50 {
+  background-image: linear-gradient(
+    to right,
+    #7a4f81,
+    #9b6d9c
+  ) !important; /* Gradient colors */
+  color: white !important;
+}
+
+.xxff {
+  background-image: linear-gradient(
+    to right,
+    #5d2b65,
+    #9b6d9c
+  ) !important; /* Gradient colors */
+  color: white !important;
+  border: 1px solid #5d2b65 !important;
+}
+
+.abc {
+  margin: 0px 0px 0px 500px !important;
+}
+.quizboard {
+  width: 1000px !important;
+}
+.py {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  font-size: 2.5rem;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: 800;
+}
+
+.fade-in {
+  opacity: 1;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.fade-out {
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.loginbutton {
+  color: white !important;
+  background-color: #97628b !important;
+}
+
+.loginbutton:hover {
+  color: white !important;
+  background-color: #cf4eb0 !important;
+}

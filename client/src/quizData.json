@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What keyword is used to define a function in Python?",
+    "options": ["def", "func", "function", "define"],
+    "answer": "def",
+    "hint": "It’s a short keyword that starts with 'd'."
+  },
+  {
+    "question": "Which of these is used to import a module?",
+    "options": ["include", "require", "import", "module"],
+    "answer": "import",
+    "hint": "It’s the keyword you often see at the beginning of Python scripts."
+  },
+  {
+    "question": "How do you print text in Python?",
+    "options": ["echo", "print()", "printf()", "write"],
+    "answer": "print()",
+    "hint": "Think about how you would command Python to display output."
+  },
+  {
+    "question": "Which symbol is used to start a comment in Python?",
+    "options": ["//", "#", "/*", "<!--"],
+    "answer": "#",
+    "hint": "It's a single character that starts with 'h'."
+  },
+  {
+    "question": "How do you create a variable in Python?",
+    "options": ["var x = 5", "let x = 5", "x = 5", "int x = 5"],
+    "answer": "x = 5",
+    "hint": "Think of Python's simplicity."
+  },
+  {
+    "question": "Which keyword is used to handle exceptions in Python?",
+    "options": ["try", "catch", "throw", "except"],
+    "answer": "try",
+    "hint": "It's a short word that starts the error handling process."
+  },
+  {
+    "question": "What is the output of `len('Python')`?",
+    "options": ["6", "5", "7", "Error"],
+    "answer": "6",
+    "hint": "Count the characters carefully!"
+  },
+  {
+    "question": "What data type is the result of `5 / 2` in Python?",
+    "options": ["int", "float", "double", "complex"],
+    "answer": "float",
+    "hint": "Python divisions produce a specific type of result."
+  },
+  {
+    "question": "How would you insert an element at the end of a list?",
+    "options": ["append()", "insert()", "add()", "push()"],
+    "answer": "append()",
+    "hint": "Think about the method used for appending."
+  },
+  {
+    "question": "Which loop is used to iterate over a range of numbers?",
+    "options": ["for", "while", "do-while", "repeat"],
+    "answer": "for",
+    "hint": "It’s a common loop in many programming languages."
+  },
+  {
+    "question": "What keyword is used to exit a loop prematurely?",
+    "options": ["break", "exit", "stop", "quit"],
+    "answer": "break",
+    "hint": "Think about how you would 'break' out of a loop."
+  },
+  {
+    "question": "What is the output of `2 ** 3`?",
+    "options": ["6", "8", "9", "5"],
+    "answer": "8",
+    "hint": "It's an exponent operation."
+  },
+  {
+    "question": "How do you start a block of code in Python?",
+    "options": ["Curly braces {}", "Colon :", "Semicolon ;", "Indentation"],
+    "answer": "Indentation",
+    "hint": "Python uses a unique method for code blocks."
+  },
+  {
+    "question": "What is the result of `5 % 2`?",
+    "options": ["2", "1", "0", "5"],
+    "answer": "1",
+    "hint": "It's the remainder after division."
+  },
+  {
+    "question": "How would you remove the last element of a list?",
+    "options": ["pop()", "remove()", "delete()", "discard()"],
+    "answer": "pop()",
+    "hint": "Think about how you would 'pop' the last element off."
+  }
+]

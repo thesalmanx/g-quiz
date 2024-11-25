@@ -1,0 +1,27 @@
+/* Fade-in effect for the header */
+@keyframes fadeIn {
+    0% { opacity: 0; transform: translateY(-10px); }
+    100% { opacity: 1; transform: translateY(0); }
+  }
+  .animate-fadeIn {
+    animation: fadeIn 1s ease-in-out forwards;
+  }
+  
+  /* Slide-in effect for the subtitle */
+  @keyframes slideIn {
+    0% { opacity: 0; transform: translateX(-10px); }
+    100% { opacity: 1; transform: translateX(0); }
+  }
+  .animate-slideIn {
+    animation: slideIn 1.2s ease-in-out forwards;
+  }
+  
+  /* Float effect for image */
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+  }
+  .animate-float {
+    animation: float 3s ease-in-out infinite;
+  }
+  
