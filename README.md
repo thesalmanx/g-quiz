@@ -1,5 +1,7 @@
 # G Quiz App 🎓
 
+## Please refer to ScreenShots folder for demo
+
 G Quiz is an interactive web application designed to test your Python programming knowledge through an engaging quiz format. It is a full-stack project with a client-server architecture.
 
 ---
