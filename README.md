@@ -123,6 +123,15 @@ g-quiz/
 ├── README.md              # Project documentation
 ```
 
+<img width="1680" alt="dashboard" src="https://github.com/user-attachments/assets/c8aa3055-4b8a-4f67-89dd-d5a1a05de353" />
+<img width="1409" alt="landing_page" src="https://github.com/user-attachments/assets/efc53078-7f1c-4a23-8297-05e03d043c81" />
+<img width="1053" alt="login" src="https://github.com/user-attachments/assets/ec7b3b18-64e3-496a-8a67-07c62427d379" />
+<img width="1211" alt="quiz" src="https://github.com/user-attachments/assets/024cb78c-014f-43da-8787-01f91c821714" />
+<img width="927" alt="signup" src="https://github.com/user-attachments/assets/dde569ef-d23f-4f85-ad5b-83148bfc7780" />
+
+
+
+
 
 
 
